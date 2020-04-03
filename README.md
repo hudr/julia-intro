@@ -34,9 +34,13 @@ Você verá algo como isto (*obviamente que uma versão mais atual*):
 
 ### Executando arquivos
 Para as demais operações basta rodar os comandos que estão presentes na documentação oficial.
-Exemplo diretamente do terminal com Julia:
+Exemplo terminal com Julia:
 ```julia
 include("diretorio/pro/nome-script.jl")
+```
+Exemplo utilizando terminal comum:
+```sh
+$ julia nome-do-script.jl
 ```
 
 License
